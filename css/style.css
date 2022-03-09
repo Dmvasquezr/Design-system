@@ -27,15 +27,10 @@
     align-items: flex-end;
 }
 .subtitle {
-    justify-content: center;
+    justify-self: center;
     margin-left: 150px;
 }
-.card {
-    display: flex;
-    flex: row;
-    justify-content: flex-end;
-    align-items: flex-end;
-}
+
 .colors-card {
     display: flex;
     justify-content:center;
