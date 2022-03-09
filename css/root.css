@@ -1,0 +1,33 @@
+:root {
+    
+    --clr-black: #333333;
+    --clr-white: #FFFFFF;
+    --clr-purple: #7A567F;
+    --clr-upper-pink: #C46E91;
+    --clr-blue: #30336E;   
+    --clr-bottom-pink: #A5688A;
+    --clr-light-gray: #E1E1E1;
+    --clr-dark-gray: #A1A1A1;
+    --clr-green: #6A9692;
+    
+
+    --fs-900: 9.375rem;
+    --fs-800: 6.25rem;
+    --fs-700: 2.5rem;
+    --fs-600: 2rem;
+    --fs-500: 1.75rem;
+    --fs-400: 1.5rem;
+    --fs-300: 1rem;
+    --fs-200: 0.875rem;
+
+    --ff-basic: arial, helvetica;
+
+    --s-0: 0rem,
+    --s-xs: 0.5rem,
+    --s-sm: 0.75rem,
+    --s-md: 1rem,
+    --s-lg: 1.375rem,
+    --s-xl: 2.25rem,
+    --s-px: 1px,
+}
+

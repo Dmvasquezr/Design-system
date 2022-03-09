@@ -1,0 +1,67 @@
+@import url(./normalize.css);
+@import url(./root.css);
+@import url(./colors.css);
+@import url(./fonts.css);
+@import url(./layout.css);
+
+.container {
+    display: flex;  
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 100px;
+    
+}
+.colors {
+    display: flex;   
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;    
+    margin: 50px;    
+}
+.title {
+    margin: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.subtitle {
+    justify-content: center;
+    margin-left: 150px;
+}
+.card {
+    display: flex;
+    flex: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.colors-card {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    width: 200px;
+    height: 100px;
+    margin: 20px;    
+}
+.card p{
+    margin: 30px;
+}
+.typography {
+    display: inline-flex;   
+    justify-content: center;
+    align-items: center; 
+    margin: 20px;      
+       
+}
+.typography p{
+    justify-items:center;
+    align-items: center;
+    margin: 40px;
+}
+.outer-line {
+    border: 2px solid #c46e91;
+    border-radius: 5px;
+    width: 1500px;
+    margin: 0px 150px 15px 150px;
+}

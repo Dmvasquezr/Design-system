@@ -1,0 +1,34 @@
+
+.bg-black { background-color: var(--clr-black);}
+.bg-white { background-color: var(--clr-white);}
+.bg-purple { background-color: var(--clr-purple);}
+.bg-upper-pink { background-color: var(--clr-upper-pink);}
+.bg-blue { background-color: var(--clr-blue);}
+.bg-bottom-pink { background-color: var(--clr-bottom-pink);}
+.bg-light-gray { background-color: var(--clr-light-gray);}
+.bg-dark-gray { background-color: var(--clr-dark-gray);}
+.bg-green { background-color: var(--clr-green);}
+
+.clr-black { color: var(--clr-black);}
+.clr-white { color: var(--clr-white);}
+.clr-purple { color: var(--clr-purple);}
+.clr-upper-pink { color: var(--clr-upper-pink);}
+.clr-blue { color: var(--clr-blue);}
+.clr-bottom-pink { color: var(--clr-bottom-pink);}
+.clr-light-gray { color: var(--clr-light-gray);}
+.clr-dark-gray { color: var(--clr-dark-gray);}
+.clr-green { color: var(--clr-green);}
+
+
+
+/* Colors info
+    --clr-purple: #7A567F HSL 293, 19%, 42%  RGB 122 86 127;
+    --clr-upper-pink: #C46E91 HSL 336 42 60 RGB 196 110% 145%;
+    --clr-blue: #30336E HSL 227 39% 31%  RGB 48 51 110;
+    --clr-black: #333333 HSL 0 0% 20% RGB 51 51 51;
+    --clr-bottom-pink: #A5688A HSL 336 42% 60% RGB 196 110 144;
+    --clr-light-gray: #E1E1E1 HSL 0 0% 88% RGB 225 225 225; 
+    --clr-dark-gray: #A1A1A1 HSL 0 0% 63%  RGB 161 161 161;
+    --clr-green: #6A9692 HSL 175 17 50 RGB 106 149 146;
+    --white: #FFFFFF HSL 0 0% 100% RGB 255 255 255;
+    */
